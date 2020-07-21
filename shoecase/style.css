@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+body{
+  font-family: 'Cabin', sans-serif;
+}
+
+body {
+background-image: linear-gradient(rgba(255, 255, 255, 0.65), transparent), url(http://i65.tinypic.com/727f4w.jpg);
+background-attachment: fixed;
+}
+
+.container {
+  height: 100vh;
+}
+
+.circle {
+  width: 40rem;
+  height: 40rem;
+  border: groove 1rem #c2c2a3;
+  border-radius: 2rem;
+  background-image: url('http://i64.tinypic.com/8ygiae.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+h1 {
+  color: #4d004d;
+}
+
+h2 {
+  color: #cc00cc;
+}
+
+h3 {
+  color: #c2c2a3;
+}
+
+h4 {
+  color: #4d004d;
+}
+
+p {
+  font-size: 2rem;
+}
+
+
+
+
+ body {
+  font-size: 2rem;
+  font-family: 'Aclonica', sans-serif;
+  color: #c2c2a3;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.box {
+  display: inline-block;
+  width: 41rem;
+  height: 69vh;
+  background: #3d3d29;
+  padding: 20px;
+  box-shadow: 10px 5px 5px #c2c2a3;
+
+}
+
+.special {
+  display: inline-block;
+  width: 41rem;
+  height: 69vh;
+  background: #4d004d;
+  padding: 20px;
+  box-shadow: 10px 5px 5px #cc00cc;
+}
+
+header, footer {
+  background:#4d004d ;
+}
+
+  background:#ABB2B9 ;
+}
