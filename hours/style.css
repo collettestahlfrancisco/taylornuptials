@@ -9,7 +9,7 @@ background: #fff0ff;
 }
 
 h1 {
-  color: #fff0ff;
+  color: #D81B60;
 }
 
 h2 {
@@ -25,5 +25,5 @@ p {
 }
 
 header, footer {
-  background:#D81B60;
+  background:#fff0ff;
 }
