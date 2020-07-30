@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans');
+
+body{
+   font-family: 'Encode Sans', sans-serif;
+}
+
+body {
+background: #fff0ff;
+}
+
+h1 {
+  color: #fff0ff;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: #D81B60;
+}
+
+p {
+  font-size: 2rem;
+}
+
+header, footer {
+  background:#fff0ff;
+}
